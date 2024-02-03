@@ -4,9 +4,7 @@
 
 <h2 align="left">The First usable HTTP called HTTP/1.1 was created in 1997. This version is still use on web </h2>
 <h2 align="right">The New version of HTTP called HTTP/2 was created in 2015. Which is faster and more efficient than older version. In one way it priorities content during the loading process. </h2>
-<style> table { font-family:cursive; border-collapse:collapse; width:100%  } 
-td {border: 1px solid #dddddd; text-align:left; padding:8px; }
-tr:nth-child(even){ background-color: #dddddd }    </style>
+
 <table><tr><th>HTTP/2</th> <th>HTTP/1.1</th></tr>
 <tr><td> <b>Prioritization: </b>Developer has hands on detail control over prioritization  <b>Multiplexing:</b>It uses single TCP connection to send multiple streams of data</td><td> <b>Prioritization: </b>That was not possible in HTTP/1.1 <b>Multiplexing:</b>It load resources one after the other</td></tr>
 </table>
