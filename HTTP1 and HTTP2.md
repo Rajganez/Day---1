@@ -1,7 +1,6 @@
-<div class = "mydiv"><h1 align="center">HTTP 1.1 Vs HTTP 2 difference</h1></div>
-<div class = "hide">I am learning FSD. I am CSE graduate and new to Programming </div>
+<h1 align="center">HTTP 1.1 Vs HTTP 2 difference</h1></div>
 <p align="center">
-<style>.hide{display: none;} .mydiv: hover + .hide{ display: block; color: red} </style>
+
 <h2 align="left">The First usable HTTP called HTTP/1.1 was created in 1997. This version is still use on web </h2>
 <h2 align="left">The New version of HTTP called HTTP/2 was created in 2015. Which is faster and more efficient than older version. In one way it priorities content during the loading process. </h2>
 <h2 align="center"><b>Below few differences for HTTP/2 and HTTP/1.1 </b></h2>
