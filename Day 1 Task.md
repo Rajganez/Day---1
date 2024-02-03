@@ -7,7 +7,7 @@
 <h2 align="center"><b>Below differences for HTTP/2 and HTTP/1.1 </b></h2>
 
 <table><tr><th>HTTP/2</th> <th>HTTP/1.1</th></tr>
-<tr><td> <b>Prioritization: </b>Developer has hands on detail control over prioritization  <b>Multiplexing:</b>It uses single TCP connection to send multiple streams of data</td><td> <b>Prioritization: </b>That was not possible in HTTP/1.1 <b>Multiplexing:</b>It load resources one after the other</td></tr>
+<tr><td> <b>Prioritization: </b>Developer has hands on detail control over prioritization  <br><b>Multiplexing:</b>It uses single TCP connection to send multiple streams of data</td><td> <b>Prioritization: </b>That was not possible in HTTP/1.1 <br><b>Multiplexing:</b>It load resources one after the other</td></tr>
 </table>
 
 
