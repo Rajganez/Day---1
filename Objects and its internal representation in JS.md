@@ -7,6 +7,11 @@
 <td>firstName  "Raj"<br> lastName  "S"<br> age  29<br> eyeColor   "black"</td>
 </tr>
 </table>
+<table><h2>Accessing Object properties</h2>
+<tr><td>objectName.propertyName <br> person.age (or) person["lastName"] </td>
+<td>29<br>S</td></tr>
+</table>
+
 
 
 
