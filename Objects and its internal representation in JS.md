@@ -7,11 +7,11 @@
 <td>firstName  "Raj"<br> lastName  "S"<br> age  29<br> eyeColor   "black"</td>
 </tr>
 </table>
-<table><h2 align="left">Accessing Object properties</h2>
+<table><h2 align="left">Accessing Object properties & Object Methods</h2>
 <tr><td>objectName.propertyName <br> person.age (or) person["lastName"] </td>
 <td>29S</td></tr>
-<h2 align="right">Object Methods</h2>
-<tr><td> fullName: <br>function()<br> { <br> return this.firstName + ' ' + this.lastName;<br>
+
+<tr><td> fullName: function()<br> { <br> return this.firstName + ' ' + this.lastName;<br>
 } <br>console.log(person.fullName()); </td><td>Raj S</td></tr>
 </table>
 
