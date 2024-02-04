@@ -12,7 +12,7 @@
 <td>29S</td></tr>
 
 <tr><td>const person = {firstName:"Raj", lastName:"S", age:29, eyeColor:"black" <br> fullName: function()<br> { <br> return this.firstName + ' ' + this.lastName;<br>
-} <br>}<br>console.log(person.fullName()); </td><td>Raj S</td></tr>
+} <br>}<br>console.log(person.fullName()); </td><td>firstName  "Raj"<br> lastName  "S"<br> age  29<br> eyeColor   "black" <br>fullName Raj S<br> Raj S</td></tr>
 </table>
 
 
