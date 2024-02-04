@@ -11,8 +11,8 @@
 <tr><td>objectName.propertyName <br> person.age (or) person["lastName"] </td>
 <td>29S</td></tr>
 
-<tr><td> fullName: function()<br> { <br> return this.firstName + ' ' + this.lastName;<br>
-} <br>console.log(person.fullName()); </td><td>Raj S</td></tr>
+<tr><td>const person = {firstName:"Raj", lastName:"S", age:29, eyeColor:"black" <br> fullName: function()<br> { <br> return this.firstName + ' ' + this.lastName;<br>
+} <br>}<br>console.log(person.fullName()); </td><td>Raj S</td></tr>
 </table>
 
 
