@@ -7,10 +7,10 @@
 <td>firstName  "Raj"<br> lastName  "S"<br> age  29<br> eyeColor   "black"</td>
 </tr>
 </table>
-<table><h2 align="left">Accessing Object properties</h2><h2 align="right">Object Methods</h2>
+<table><tr><h2 align="left">Accessing Object properties</h2><h2 align="right">Object Methods</h2></tr>
 <tr><td>objectName.propertyName <br> person.age (or) person["lastName"] </td>
 <td>29S</td></tr>
-<tr><td> fullName: <br>function()<br> { <br> return this.firstName + ' ' + this.lastName;<br>
+<td> fullName: <br>function()<br> { <br> return this.firstName + ' ' + this.lastName;<br>
 }</td>
 </table>
 
